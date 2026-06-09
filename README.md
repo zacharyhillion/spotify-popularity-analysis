@@ -1,16 +1,16 @@
-## 🎯 Objective
+#  Objective
 This project explores what drives the popularity of songs on Spotify.
 
 The goal is to test whether audio features (energy, danceability, valence, etc.) are enough to explain or predict a song’s popularity.
 
-# 📈 Key Findings
+# Key Findings
 
 - Release year is the most influential variable linked to popularity
 - Audio features show weak relationships with popularity overall
 - When controlling for time, correlations between audio features and popularity become very low
 - A linear regression model based only on audio features performs poorly (R² ≈ 0.04)
 
-# 🧠 Conclusion
+# Conclusion
 
 Song popularity on Spotify is only weakly explained by audio features available in this dataset.
 
